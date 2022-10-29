@@ -1,8 +1,6 @@
 
 - npm init -> enter -> enter
 git repository: link git.
-key words: gì cũng được.
-author: tác giả -> enter.
 - npm install express: package.json file quản lí các library, package-lock file quản lý các thư viện phụ thuộc của phụ thuộc.
 - npm i nodemon --save-dev :nodemon: sẽ tự động restart server khi có sự thay đổi, giúp debug nhanh hơn đi console.log.
 - Json Server: npm i json-server(chỉ cài trên project nên lệnh chạy nó khác sửa trong file json:"script":{"start":"json-server --watch db.json"}) => npm start.
